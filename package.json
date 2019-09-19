@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "dotenv-safe": "^5.0.1",
-    "ms": "^2.1.1",
+    "ms": "^2.1.2",
     "node-fetch": "^2.1.1",
     "pino": "^4.16.1",
     "redis": "^2.8.0",
